@@ -1,4 +1,16 @@
 # Birth_Weight_Prediction
+# Introduction
+A new born baby calls out for joy and hope, but the bitter truth is each year more than half a
+million women have tragic pregnancies that result in anguish and despair. Underweight and
+overweight babies have high mortality and morbidity rates. Detection of these growth
+abnormalities will help us to avoid and manage perinatal complications. Risks in pregnancy
+and miscarriage can be handled if the birth weight of the baby can be predicted before it is
+born and hence, necessary changes in the mother’s lifestyle can be suggested, for the
+betterment of the health of the baby as well as the mother. This study aims to predict baby
+weight using different factors that affect the same.
+
+# Model comparison
+
 Using Machine Learning models to predict if the birth weight of a baby will fall outside the normal range (2.5kg-4.5kg). 
 
 DATA DESCRIPTION:
